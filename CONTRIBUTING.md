@@ -13,7 +13,7 @@ I always welcome code contributions, no matter how big or small. However, to mak
   * Squash your commits (within reason) _before_ pushing them.
   
 ## Submit a Bug Report
-Thanks for helping me test my software! However, to make sure the bug you've found is in fact in my software and not somewhere else, please *follow the bug report template to the letter.* Remember: If I cannot reproduce the bug, then I cannot fix it.
+Thanks for helping me test my software! However, to make sure the bug you've found is in fact in my software and not somewhere else, then please provide me with [minimal reproducible test case](https://stackoverflow.com/help/minimal-reproducible-example). If the repo you're reporting a bug on contains a bug report template, then please *follow the bug report template to the letter.* Remember: If I cannot reproduce the bug, then I cannot fix it.
 
 ## Submit a Feature Request
 You're welcome to suggest all kinds of enhancements. However, please consider whether perhaps you should start a *Discussion* about your ideas first. 
