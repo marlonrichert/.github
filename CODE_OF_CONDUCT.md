@@ -1,5 +1,5 @@
-# Code of Conduct
+# Code of Conduct for users of [Marlon Richert](https://github.com/marlonrichert)'s repos on GitHub
 
-By interacting with this repo on GitHub, you agree to abide by the following rules :
+By interacting with any of my repos on GitHub, you agree to abide by the following rules :
 * *Issues* are for bug reports and feature requests. If your issue is neither (or you're not sure), then please first start a *Discussion.*
-* *Discussions* are for help with this repo only. This is not a general support forum. If you have questions outside the scope of this repo, please ask them elsewhere.
+* *Discussions* in a repo are for help with that repo only. They are not general support forums. If you have questions outside the scope of the repo, then please ask them elsewhere.
