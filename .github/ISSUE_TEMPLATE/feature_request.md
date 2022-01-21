@@ -1,7 +1,7 @@
 ---
 name: Feature request
-about: Don't add more than one idea or suggestion. If you have lots of them, please
-  start a Discussion instead.
+about: Don't suggest more than one idea per issue. If you have lots of ideas or suggestions,
+  please start a Discussion instead.
 title: ''
 labels: enhancement
 assignees: ''

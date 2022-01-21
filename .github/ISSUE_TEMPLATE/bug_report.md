@@ -37,4 +37,4 @@ assignees: ''
  - Repo version: <!-- git branch -v --points-at=@ -->
 
 ## Additional context
-Add any other context about the problem here.
+<!-- Add any other context about the problem here. -->
